@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Batteriest__30._01._2023_.Properties {
+namespace Batteriest.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Batteriest__30._01._2023_.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Batteriest__30._01._2023_.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Batteriest.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap battery {
+        internal static System.Drawing.Bitmap BTA___AT {
             get {
-                object obj = ResourceManager.GetObject("battery", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - AT", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap broom {
+        internal static System.Drawing.Bitmap BTA___Close {
             get {
-                object obj = ResourceManager.GetObject("broom", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Close", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap check {
+        internal static System.Drawing.Bitmap BTA___HA {
             get {
-                object obj = ResourceManager.GetObject("check", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - HA", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap check1 {
+        internal static System.Drawing.Bitmap BTA___Icon {
             get {
-                object obj = ResourceManager.GetObject("check1", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Icon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap check2 {
+        internal static System.Drawing.Bitmap BTA___Info {
             get {
-                object obj = ResourceManager.GetObject("check2", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Info", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap crossx {
+        internal static System.Drawing.Bitmap BTA___Mark {
             get {
-                object obj = ResourceManager.GetObject("crossx", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Mark", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,9 +123,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap crossx1 {
+        internal static System.Drawing.Bitmap BTA___RCE {
             get {
-                object obj = ResourceManager.GetObject("crossx1", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - RCE", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +133,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap disk {
+        internal static System.Drawing.Bitmap BTA___RCE___Start {
             get {
-                object obj = ResourceManager.GetObject("disk", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - RCE - Start", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,9 +143,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap equalizer {
+        internal static System.Drawing.Bitmap BTA___Restore {
             get {
-                object obj = ResourceManager.GetObject("equalizer", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Restore", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +153,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fs {
+        internal static System.Drawing.Bitmap BTA___Save {
             get {
-                object obj = ResourceManager.GetObject("fs", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Save", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,9 +163,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fsfs {
+        internal static System.Drawing.Bitmap BTA___Settings {
             get {
-                object obj = ResourceManager.GetObject("fsfs", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Settings", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +173,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_switch_48 {
+        internal static System.Drawing.Bitmap BTA___Sinüs {
             get {
-                object obj = ResourceManager.GetObject("icons8-switch-48", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Sinüs", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +183,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap information__1_ {
+        internal static System.Drawing.Bitmap BTA___Start {
             get {
-                object obj = ResourceManager.GetObject("information (1)", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Start", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,9 +193,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap play {
+        internal static System.Drawing.Bitmap BTA___Stop {
             get {
-                object obj = ResourceManager.GetObject("play", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - Stop", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -203,29 +203,9 @@ namespace Batteriest__30._01._2023_.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap report {
+        internal static System.Drawing.Bitmap BTA___YTU {
             get {
-                object obj = ResourceManager.GetObject("report", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap setting__1_ {
-            get {
-                object obj = ResourceManager.GetObject("setting (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap stop {
-            get {
-                object obj = ResourceManager.GetObject("stop", resourceCulture);
+                object obj = ResourceManager.GetObject("BTA - YTU", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
